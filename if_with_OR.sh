@@ -15,4 +15,5 @@ echo "You got 3rd prize"
 
 else
 echo "Sorry, try for the next time"
+echo "Good Bye"
 fi
